@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="./figures/main_fig.png" style="width: 30%;">
+  <img src="./figures/fig_main.png" style="width: 30%;">
 </div>
 
 Estimate the likelihood of an offender being arrested, based on police records
