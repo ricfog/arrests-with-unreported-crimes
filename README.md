@@ -1,6 +1,14 @@
-Estimation of the likelihood that an offender is arrested for a crime incident on police records from
-the National Incident Based Reporting System (NIBRS), accounting for unreported
-crimes. Estimates of the likelihood of police notification are obtained using
-data from the National Crime Victimization Survey (NCVS).
+<div style="display: flex; justify-content: center;">
+  <img src="figures/main_fig.png" style="width: 30%;">
+</div>
 
-Get started with data processing by reading the docs in the `process-data` directory. Then run the analysis using the files in `analysis`. 
+Estimate the likelihood of an offender being arrested, based on police records
+from the **National Incident Based Reporting System (NIBRS)**. This approach
+accounts for unreported crimes with estimates for the likelihood of police
+notification being derived from the **National Crime Victimization Survey
+(NCVS)**.
+
+## Quick Start 🚀
+
+1. **Data Processing**: Begin by reading the documentation in the [`process-data`](./process-data) directory.
+2. **Run Analysis**: Execute your analysis using the files within the [`analysis`](./analysis) directory.
