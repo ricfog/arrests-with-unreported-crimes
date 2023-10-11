@@ -1,6 +1,7 @@
 <div style="display: flex; align-items: center;">
-  <img src="./figures/fig_main1.png" style="width: 30%;">
-  <img src="./figures/fig_main2.png" style="width: 30%;">
+  <img src="./figures/fig_main1.png" style="width: 33%;">
+  <img src="./figures/fig_main2.png" style="width: 33%;">
+  <img src="./figures/fig_main3.png" style="width: 33%;">
 </div>
 Estimate the likelihood of an offender being arrested, based on police records from the **National Incident Based Reporting System (NIBRS)**. This approach accounts for unreported crimes with estimates for the likelihood of police notification being derived from the **National Crime Victimization Survey (NCVS)**.
 
