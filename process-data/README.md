@@ -101,7 +101,7 @@ dataset that you will obtain by running the code above for each offense type is
 "compatible" with only one of the NCVS datasets that are generated, i.e., they
 will contain data of incidents with similar characteristics.
 
-## Data Processing
+## Variable construction
 
 We provide further details on the construction of variables on
 NCVS and NIBRS data. For each of the variables considered, we list their coded
